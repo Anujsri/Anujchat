@@ -1,4 +1,4 @@
-# Node.js LoginApp
+# Node.js Chat App
 
 This is a multi user chat webapp using Node.js, Express, Passport,Mongoose and Pusher.com API.  
 
