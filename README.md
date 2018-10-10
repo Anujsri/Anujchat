@@ -1,37 +1,19 @@
-# Node.js Chat App
+# Node.js BlogApp
 
-This is a multi user chat webapp using Node.js, Express, Passport,Mongoose and Pusher.com API.  
+This is a user login and registration,and create blogs app using Node.js, Express, Passport,RestApi and Mongoose.  
 
 ### Version
 1.1.0
 
-```
-### Installation required for app
+### Usage
+
+
+### Installation
+
+Loginapp requires [Node.js](https://nodejs.org/) v4+ to run.
+
 ```sh
 $ npm install
-```
-
-```sh
-$ npm install express
-```
-
-```sh
-$ npm install angular
-```
-```sh
-$ npm install -g socket.io
-```
-
-```sh
-$ npm install supervisor -g
-```
-
-```sh
-$ npm install body-parser
-```
-
-```sh
-$ npm install mongoose
 ```
 
 ```sh
