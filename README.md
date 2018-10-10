@@ -1,6 +1,8 @@
-# Node.js BlogApp
+# Node.js Chat Application
 
-This is a user login and registration,and create blogs app using Node.js, Express, Passport,RestApi and Mongoose.  
+This webapp for chat application using Socet.io and Nodejs.
+## Technology Used
+Nodejs, REST API, MongoDB, Express.js ,BootStrap, Socket.io.
 
 ### Version
 1.1.0
@@ -10,7 +12,6 @@ This is a user login and registration,and create blogs app using Node.js, Expres
 
 ### Installation
 
-Loginapp requires [Node.js](https://nodejs.org/) v4+ to run.
 
 ```sh
 $ npm install
